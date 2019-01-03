@@ -2,9 +2,9 @@
 
 ## Description
 
-A simple starter kit builded with Gulp, SASS, and js/sass lint for better coding
+A simple starter kit builded with Gulp, SASS, JS and BrowserSync
 
-#### Start by running `git clone https://github.com/ingridsc/gulp-sass-browsersync-starter`
+#### Start by running `git clone https://github.com/ingridsc/gulp-sass-js-browsersync-starter`
 
 ## How to Run
 1. You first of all need to install  [Nodejs](https://nodejs.org).
