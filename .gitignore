@@ -1,7 +1,3 @@
-
-# Created by https://www.gitignore.io/api/node,bower,osx,linux,windows,dropbox,sass,less,grunt,sublimetext,code
-# curated by brianeto XD
-
 ### Node ###
 # Logs
 logs
@@ -58,3 +54,6 @@ $RECYCLE.BIN/
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
 .vscode/
+
+# PhpStorm
+.idea/
