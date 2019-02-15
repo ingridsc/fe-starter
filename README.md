@@ -1,8 +1,8 @@
-# gulp-sass-js-browsersync-starter
+# Front-end-kit-starter
 
 ## Description
 
-A simple starter kit builded with Gulp, SASS, JS and BrowserSync
+A simple front-end starter kit builded with Gulp, SASS, JS and BrowserSync
 
 #### Start by running `git clone https://github.com/ingridsc/gulp-sass-js-browsersync-starter`
 
